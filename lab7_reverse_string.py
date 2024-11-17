@@ -12,6 +12,8 @@ reverse_string("Python")  # returns "nohtyP"
 #CODE 
 #YOUR
 #FUNCTION BELOW HERE
+def reverse_string(s):
+    return s[::-1]
 
 
 
